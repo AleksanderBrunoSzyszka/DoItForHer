@@ -6,6 +6,13 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    // ładowanie grafiki SMDL
+    // petla główna
+        //sprawdzanie wejścia
+        //aktualizacja pozycji
+        //sprawdzanie zdarzeń (mechanika gry oparta jest na licznikach)
+        //
+        //
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
